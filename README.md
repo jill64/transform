@@ -1,15 +1,15 @@
 <!----- BEGIN GHOST DOCS HEADER ----->
 
-# ts-library-template
+# transform
 
-[![ci.yml](https://github.com/jill64/ts-library-template/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/ts-library-template/actions/workflows/ci.yml)
+[![ci.yml](https://github.com/jill64/transform/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/transform/actions/workflows/ci.yml) [![codecov-coverage](https://codecov.io/gh/jill64/transform/graph/badge.svg)](https://codecov.io/gh/jill64/transform)
 
-⛩️ TypeScript Library Template
+Extended map functions for some JS objects
 
-## Install
+## Installation
 
 ```sh
-npm i ts-library-template
+npm i @jill64/transform
 ```
 
 <!----- END GHOST DOCS HEADER ----->
