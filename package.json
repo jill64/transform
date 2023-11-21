@@ -1,6 +1,6 @@
 {
   "name": "@jill64/transform",
-  "description": "",
+  "description": "💠 Extended map functions for some JS objects",
   "version": "0.0.0",
   "type": "module",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "files": [
     "index.js",
     "index.d.ts",
-    "!**/*.test.*"
+    "!**/*.test.*",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     ".": {
@@ -26,7 +28,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "map",
+    "type-safe",
+    "utility"
+  ],
   "scripts": {
     "test": "vitest",
     "lint": "tsc && npx publint && npx eslint . && npx depcheck",
