@@ -6,10 +6,4 @@
 
 💠 Extended map functions for some JS objects
 
-## Installation
-
-```sh
-npm i @jill64/transform
-```
-
 <!----- END GHOST DOCS HEADER ----->

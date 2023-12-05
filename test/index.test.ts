@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import { transform } from './index.js'
+import { transform } from '../src/index.js'
 
 test('set', () => {
   const res = transform(new Set([1, 2, 3] as const), (x) => x.toString())
