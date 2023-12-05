@@ -8,7 +8,9 @@
   "bugs": "https://github.com/jill64/transform/issues",
   "homepage": "https://github.com/jill64/transform#readme",
   "files": [
-    "dist"
+    "dist",
+    "!**/*.test.*",
+    "!**/*.spec.*"
   ],
   "exports": {
     ".": {
