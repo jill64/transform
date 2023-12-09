@@ -1,7 +1,7 @@
 {
   "name": "@jill64/transform",
   "description": "💠 Extended map functions for some JS objects",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
@@ -9,9 +9,7 @@
   "bugs": "https://github.com/jill64/transform/issues",
   "homepage": "https://github.com/jill64/transform#readme",
   "files": [
-    "dist",
-    "!**/*.test.*",
-    "!**/*.spec.*"
+    "dist"
   ],
   "exports": {
     ".": {
