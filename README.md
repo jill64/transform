@@ -7,3 +7,11 @@
 💠 Extended map functions for some JS objects
 
 <!----- END GHOST DOCS HEADER ----->
+
+## Installation
+
+```bash
+npm i @jill64/transform
+```
+
+[Usage](./test/index.test.ts)
