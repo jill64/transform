@@ -2,7 +2,7 @@
 
 # transform
 
-[![npm-version](https://img.shields.io/npm/v/@jill64/transform)](https://npmjs.com/package/@jill64/transform) [![npm-license](https://img.shields.io/npm/l/@jill64/transform)](https://npmjs.com/package/@jill64/transform) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/transform)](https://npmjs.com/package/@jill64/transform) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/transform)](https://npmjs.com/package/@jill64/transform) [![ci.yml](https://github.com/jill64/transform/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/transform/actions/workflows/ci.yml)
+<!----- BEGIN GHOST DOCS BADGES -----><a href="https://npmjs.com/package/@jill64/transform"><img src="https://img.shields.io/npm/v/@jill64/transform" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/transform"><img src="https://img.shields.io/npm/l/@jill64/transform" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/transform"><img src="https://img.shields.io/npm/dm/@jill64/transform" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/transform"><img src="https://img.shields.io/bundlephobia/min/@jill64/transform" alt="npm-min-size" /></a> <a href="https://github.com/jill64/transform/actions/workflows/ci.yml"><img src="https://github.com/jill64/transform/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a><!----- END GHOST DOCS BADGES ----->
 
 💠 Extended map functions for some JS objects
 
