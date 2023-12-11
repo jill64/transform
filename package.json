@@ -5,7 +5,12 @@
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/transform/issues",
   "homepage": "https://github.com/jill64/transform#readme",
   "files": [
@@ -19,7 +24,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/transform.git"
+    "url": "https://github.com/jill64/transform.git",
+    "image": "https://opengraph.githubassets.com/be93727d6efe61595bd1a6211015df1e98e66d685e9eac1ca60d188ca307537e/jill64/transform"
   },
   "publishConfig": {
     "access": "public"
