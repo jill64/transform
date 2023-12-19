@@ -15,3 +15,11 @@ npm i @jill64/transform
 ```
 
 [Usage](./test/index.test.ts)
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
