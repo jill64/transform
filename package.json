@@ -1,7 +1,7 @@
 {
   "name": "@jill64/transform",
   "description": "💠 Extended map functions for some JS objects",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
@@ -25,7 +25,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/transform.git",
-    "image": "https://opengraph.githubassets.com/7fe4886bb16509f302c6246b8707823842cf0f5a23d199488418b88d732e9a58/jill64/transform"
+    "image": "https://opengraph.githubassets.com/a67eaa535d59c5e8935dd3bfd38d1e387f95b362b492fd1f2d19aa5565863281/jill64/transform"
   },
   "publishConfig": {
     "access": "public"
@@ -44,7 +44,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.1.25",
+    "@jill64/eslint-config-ts": "1.1.26",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.4.5",
     "vitest": "1.6.0"
