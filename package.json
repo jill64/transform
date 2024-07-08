@@ -25,7 +25,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/transform.git",
-    "image": "https://opengraph.githubassets.com/7b8d1ebed527dba230cde890aa926c925329c83427de0437c9d8bd8aa5dee4e5/jill64/transform"
+    "image": "https://opengraph.githubassets.com/79dd69004922dcbe9d1603100a2b68893100158e5bda80f72c0f3a90dfdb772a/jill64/transform"
   },
   "publishConfig": {
     "access": "public"
@@ -44,7 +44,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.1.28",
+    "@jill64/eslint-config-ts": "1.1.29",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.5.3",
     "vitest": "2.0.1"
