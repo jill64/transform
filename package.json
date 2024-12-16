@@ -1,7 +1,7 @@
 {
   "name": "@jill64/transform",
   "description": "💠 Extended map functions for some JS objects",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
