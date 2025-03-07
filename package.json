@@ -25,7 +25,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/transform.git",
-    "image": "https://opengraph.githubassets.com/ed675811d8b8678028bb7354530ab26218baaf74ab5ddab0e3bc4ec4d65d33d1/jill64/transform"
+    "image": "https://opengraph.githubassets.com/5c072d3e5845a67e35907dbae4a52ed1d3ec8ea62648c6edc2b7a181067f847d/jill64/transform"
   },
   "publishConfig": {
     "access": "public"
